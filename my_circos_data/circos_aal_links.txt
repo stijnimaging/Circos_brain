@@ -1,0 +1,6 @@
+aal1 0 50 aal75 0 50 color=cyan
+aal2 0 50 aal7 0 100 color=bisque
+aal4 0 50 aal58 0 20 color=cadetblue
+aal12 0 100 aal43 0 100 color=red
+aal18 0 100 aal29 0 100 color=magenta
+aal62 0 100 aal79 0 100 color=chocolate
