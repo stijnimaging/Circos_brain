@@ -1,0 +1,7 @@
+
+*** REQUIRED MODULE IS MISSING ***
+
+You are missing the Perl module GD::Polyline. Use CPAN to install it as described in this tutorial
+
+http://www.circos.ca/documentation/tutorials/configuration/perl_and_modules
+
